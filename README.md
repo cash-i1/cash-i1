@@ -12,7 +12,7 @@ I havn't been programming for very long, at least according to this:<br>
 <br>
 ![Static Badge](https://img.shields.io/badge/Godot-grey?logo=godotengine&logoColor=fffff&link=https%3A%2F%2Fgodotengine.org%2F) *6 months*
 <br>
-![Static Badge](https://img.shields.io/badge/Python-grey?logo=python&logoColor=00000&labelColor=%23ffde58&color=%23346e9e&link=https%3A%2F%2Fwww.python.org%2F) *1 year*
+![Static Badge](https://img.shields.io/badge/Python-grey?logo=python&logoColor=00000&labelColor=%23ffde58&color=%23346e9e&link=https%3A%2F%2Fwww.python.org%2F) *11 months*
 
 ## Setup 🖥️
 ![Static Badge](https://img.shields.io/badge/neovim-green?style=flat&logo=Neovim&logoColor=fff&labelColor=%231270af&link=https%3A%2F%2Fneovim.io%2F)
