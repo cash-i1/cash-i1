@@ -3,6 +3,9 @@
   i am ignitro and i am bored
 </h3>
 
+[<kbd> <br> YouTube <br> </kbd>](https://youtube.com/@Cashigrtro)
+[<kbd> <br> Website <br> </kbd>](https://ignitro.xyz)
+
 ## About me 🦠
 I havn't been programming for very long, at least according to this:<br>
 ![GitHub Stats](https://github.com/cash-i1/cash-i1/assets/117874913/7cb56c30-3936-4eb0-9fe1-f2dc61a4f8c5)
