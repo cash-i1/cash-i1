@@ -5,17 +5,18 @@
 
 [<kbd> <br> YouTube <br> </kbd>](https://youtube.com/@Cashigrtro)
 [<kbd> <br> Website <br> </kbd>](https://ignitro.xyz)
+[<kbd> <br> Dotfiles <br> </kbd>](https://github.com/cash-i1/dotfiles)
 
 ## About me 🦠
 I havn't been programming for very long, at least according to this:<br>
 ![GitHub Stats](https://github.com/cash-i1/cash-i1/assets/117874913/7cb56c30-3936-4eb0-9fe1-f2dc61a4f8c5)
 
 ## Languages ⌨️
-![Static Badge](https://img.shields.io/badge/Rust-red?logo=rust) *4 months*
+![Static Badge](https://img.shields.io/badge/Rust-red?logo=rust) *5 months*
 <br>
-![Static Badge](https://img.shields.io/badge/Godot-grey?logo=godotengine&logoColor=fffff&link=https%3A%2F%2Fgodotengine.org%2F) *6 months*
+![Static Badge](https://img.shields.io/badge/Godot-grey?logo=godotengine&logoColor=fffff&link=https%3A%2F%2Fgodotengine.org%2F) *7 months*
 <br>
-![Static Badge](https://img.shields.io/badge/Python-grey?logo=python&logoColor=00000&labelColor=%23ffde58&color=%23346e9e&link=https%3A%2F%2Fwww.python.org%2F) *11 months*
+![Static Badge](https://img.shields.io/badge/Python-grey?logo=python&logoColor=00000&labelColor=%23ffde58&color=%23346e9e&link=https%3A%2F%2Fwww.python.org%2F) *1 year*
 
 ## Setup 🖥️
 ![Static Badge](https://img.shields.io/badge/neovim-green?style=flat&logo=Neovim&logoColor=fff&labelColor=%231270af&link=https%3A%2F%2Fneovim.io%2F)
