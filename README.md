@@ -1,6 +1,5 @@
 [<h3 align="center">](https://www.youtube.com/)
   <img src="https://avatars.githubusercontent.com/u/117874913?v=4" width="100" alt="Logo"/><br/>
-  i am ignitro and i am bored
 </h3>
 
 [<kbd> <br> YouTube <br> </kbd>](https://youtube.com/@Cashigrtro)
