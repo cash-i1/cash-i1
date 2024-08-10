@@ -1,21 +1,13 @@
-[<h3 align="center">](https://www.youtube.com/)
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/117874913?v=4" width="100" alt="Logo"/><br/>
-</h3>
+</div>
 
 [<kbd> <br> YouTube <br> </kbd>](https://youtube.com/@Cashigrtro)
 [<kbd> <br> Website <br> </kbd>](https://ignitro.xyz)
 [<kbd> <br> Dotfiles <br> </kbd>](https://github.com/cash-i1/dotfiles)
 
-## About me 🦠
-I havn't been programming for very long, at least according to this:<br>
-![GitHub Stats](https://github.com/cash-i1/cash-i1/assets/117874913/7cb56c30-3936-4eb0-9fe1-f2dc61a4f8c5)
-
 ## Languages ⌨️
-![Static Badge](https://img.shields.io/badge/Rust-red?logo=rust) *5 months*
-<br>
-![Static Badge](https://img.shields.io/badge/Godot-grey?logo=godotengine&logoColor=fffff&link=https%3A%2F%2Fgodotengine.org%2F) *7 months*
-<br>
-![Static Badge](https://img.shields.io/badge/Python-grey?logo=python&logoColor=00000&labelColor=%23ffde58&color=%23346e9e&link=https%3A%2F%2Fwww.python.org%2F) *1 year*
+<img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-256x256.png" width="100" alt="Rust Logo"/>
 
 ## Setup 🖥️
 ![Static Badge](https://img.shields.io/badge/neovim-green?style=flat&logo=Neovim&logoColor=fff&labelColor=%231270af&link=https%3A%2F%2Fneovim.io%2F)
@@ -27,6 +19,5 @@ I havn't been programming for very long, at least according to this:<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cash-i1&layout=donut&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0d1117&border_color=0d1117)
 
 ## Things i've made 🎮
-[Up from the Lava From as Lebron](https://github.com/cash-i1/Up-from-the-Lava-From-as-Lebron): A game where you play as lebron james and go up from rising lava. *made in godot* <br>
-[Enviroment Up](https://github.com/cash-i1/Enviroment-Up): A game where you play as a random stock image and jump forever while avoiding pollution (doodle jump clone). *made in godot* 
-
+[dietplanner](https://github.com/cash-i1/dietplanner): calorie counter made in **rust** with **leptos**. <br/>
+[powderfb](https://github.com/cash-i1/powderfb): my attempt at creating a clone of [the powder toy](https://powdertoy.co.uk/). made in **rust** with **minifb**.
