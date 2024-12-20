@@ -3,16 +3,21 @@
 </div>
 
 [<kbd> <br> YouTube <br> </kbd>](https://youtube.com/@Cashigrtro)
-[<kbd> <br> Website <br> </kbd>](https://ignitro.xyz)
+[<kbd> <br> Website *(down)* <br> </kbd>](https://ignitro.xyz)
 [<kbd> <br> Dotfiles <br> </kbd>](https://github.com/cash-i1/dotfiles)
 
 ## Languages ⌨️
+<img src="https://github.com/user-attachments/assets/561c800e-c9ab-46f0-aa35-38e445a9e116" width="100"/>
+<img src="https://github.com/user-attachments/assets/8567adaf-47a4-4b58-9af1-e24e264fd606" width="100"/>
 <img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-256x256.png" width="100" alt="Rust Logo"/>
 
 ## Setup 🖥️
 ![Static Badge](https://img.shields.io/badge/neovim-green?style=flat&logo=Neovim&logoColor=fff&labelColor=%231270af&link=https%3A%2F%2Fneovim.io%2F)
+![Static Badge](https://img.shields.io/badge/tmux-blue?logo=tmux&labelColor=grey&color=green)
+![Static Badge](https://img.shields.io/badge/plasma-blue?logo=kde&labelColor=grey&color=blue)
+![Static Badge](https://img.shields.io/badge/linux-blue?logo=linux&logoColor=white&labelColor=grey)
+<br/>
 ![Static Badge](https://img.shields.io/badge/Firefox-grey?style=flat&logo=firefox&link=https%3A%2F%2Fneovim.io%2F)
-![Static Badge](https://img.shields.io/badge/Arch%20Linux-grey?style=flat&logo=archlinux&labelColor=grey&color=blue&link=https%3A%2F%2Farchlinux.org%2F)
 ![Static Badge](https://img.shields.io/badge/DaVinci%20Resolve-grey?style=flat&logo=davinciresolve&labelColor=blue&color=red&link=https%3A%2F%2Farchlinux.org%2F)
 
 ## Stats 📊
