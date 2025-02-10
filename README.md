@@ -9,7 +9,6 @@
 ## Languages ⌨️
 <img src="https://github.com/user-attachments/assets/561c800e-c9ab-46f0-aa35-38e445a9e116" width="100"/>
 <img src="https://github.com/user-attachments/assets/8567adaf-47a4-4b58-9af1-e24e264fd606" width="100"/>
-<img src="https://raw.githubusercontent.com/rust-lang/rust-artwork/master/logo/rust-logo-256x256.png" width="100" alt="Rust Logo"/>
 
 ## Setup 🖥️
 ![Static Badge](https://img.shields.io/badge/neovim-green?style=flat&logo=Neovim&logoColor=fff&labelColor=%231270af&link=https%3A%2F%2Fneovim.io%2F)
